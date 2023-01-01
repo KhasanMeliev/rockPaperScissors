@@ -8,6 +8,7 @@ Rules
 <li>Scissors beats Paper</li>
 If the player wins, they gain 1 point. If the computer wins, the player loses one point.
 
-
-
+</br>
+</br>
+</br>
 <p>khasan meliev</p>
